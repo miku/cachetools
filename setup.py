@@ -1,4 +1,6 @@
 from distutils.core import setup
+# for python setup.py develop
+import setuptools 
 
 setup(
     name='cachetools',
