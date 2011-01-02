@@ -9,6 +9,6 @@ setup(
     url='https://github.com/miku/cachetools',
     version='0.0.1',
     packages=['cachetools',],
-    license='TBA',
+    license='BSD',
     long_description=open('README').read(),
 )
